@@ -1,0 +1,687 @@
+﻿Important discoveries in the field of science
+Invention/discovery
+
+Inventor
+
+Date
+
+Electricity 
+
+Benjamin Franklin
+
+1759
+
+Centigrade scale
+
+Anders Celsius 
+
+–
+
+Watch
+
+Peter Henlein 
+
+–
+
+Radio
+
+Guglielmo Marconi
+
+1895
+
+Thermometer
+
+Gabriel Farenheit
+
+1714
+
+Electric Bulb
+
+Thomas Edison
+
+1879
+
+Telescope
+
+Hans Lippershey and Zacharias Janssen; later Galileo
+
+1608
+
+Air Brake
+
+Westinghouse
+
+1869
+
+Amplitude Modulation
+
+Reginald Fessiden
+
+–
+
+Anemometer( wind speed)
+
+Leon Battista Alberti 
+
+1450
+
+Barometer
+
+Evangelista Torricelli
+
+–
+
+Cathode Ray Tube
+
+Ferdinand  Braun
+
+1897
+
+Telegraph
+
+Samuel Morse
+
+1830
+
+Automobile
+
+Karl Benz
+
+1885
+
+Transformer
+
+Michael Faraday
+
+1885
+
+Electromagnetic induction
+
+Michael Faraday
+
+1830
+
+Quantum Mechanics
+
+Werner Heisenberg, Max Born, and Pascual Jordan
+
+1924
+
+Nuclear Reactor
+
+Enrico Fermi
+
+1942
+
+Airplane
+
+Wright Brothers
+
+1903
+
+Camera
+
+Nicéphore Niépce
+
+1816
+
+LED
+
+Oleg Losev, Nick Holonyak
+
+1962
+
+Gravity
+
+Sir Isaac Newton
+
+1687
+
+Battery
+
+Alessandro Volta
+
+1799
+
+Induction motor
+
+Nikola Tesla
+
+1885
+
+Diesel Engine
+
+Rudolf Diesel
+
+1858
+
+Dynamite
+
+Alfred Nobel
+
+1867
+
+Lift
+
+Elisha Otis
+
+1853
+
+Mobile Phone
+
+Martin Cooper
+
+1973
+
+Printing Press
+
+Johannes Gutenberg
+
+1440
+
+Steam engine
+
+Thomas Newcomen
+
+1698
+
+Railway Engine
+
+George Stephenson
+
+–
+
+Telephone
+
+Alexander Graham Bell
+
+1876
+
+Seismograph
+
+John Milne
+
+1839
+
+Electric Generator
+
+Michael Faraday
+
+1831
+
+Television
+
+John Logie Baird
+
+1927
+
+Calculator
+
+Blaise Pascal
+
+1642
+
+Refrigerator
+
+William Cullen
+
+1927
+
+Atomic bomb
+
+Robert Oppenheimer, Edward Teller et al
+
+1945
+
+Air conditioner
+
+Willis Carrier
+
+1902
+
+Radar
+
+Sir Robert Alexander Watson-Watt
+
+1939
+
+Transistor
+
+John Bardeen, Walter Brattain, and William Shockley
+
+1947
+
+Galvanometer
+
+Johann Schweigger
+
+1820
+
+Laser
+
+Theodore H. Maiman
+
+1969
+
+Rocket Engine
+
+Robert Goddard
+
+–
+
+Typewriter
+
+Christopher Latham Sholes
+
+1878
+
+Polythene
+
+Eric Fawcett
+
+1933
+
+Osmosis 
+
+Jean Antoine Nollet
+
+1748
+
+Electrons 
+
+JJ Thompson
+
+1897
+
+Protons
+
+Ernest Rutherford
+
+1911
+
+Inert Gases
+
+Sir William Ramsay
+
+1894
+
+Radioactivity
+
+Henri Becquerel
+
+1896
+
+Periodic Table
+
+Dmitri Mendeleev
+
+1869
+
+Oxygen
+
+Carl Wilhelm
+
+1773
+
+Hydrogen
+
+Henry Cavendish
+
+1766
+
+Atoms
+
+John Dalton
+
+1803
+
+Acid (LSD) 
+
+Albert hofmann
+
+1938
+
+Ionic Bonds
+
+Svante August Arrhenius
+
+1884
+
+Aluminium
+
+Charles Martin Hall
+
+1886
+
+PH Meter
+
+Arnold O. Beckman
+
+1934
+
+Synthetic Rubber
+
+Fritz Hofmann
+
+1909
+
+Titanium
+
+William Kroll
+
+1940
+
+Radium
+
+Marie slodo
+
+1898
+
+Penicillin
+
+Alexander Fleming
+
+1928
+
+Taxol
+
+Monroe Wall and Mansukh Wani
+
+–
+
+Anesthesia
+
+William Morton
+
+–
+
+Pasteurization
+
+Louis Pasteur 
+
+–
+
+LCD
+
+George H. Heilmeier
+
+1888
+
+Aspirin
+
+Felix Hofmann
+
+1899
+
+DNA sequencer
+
+Lloyd M. Smith 
+
+1987
+
+Blood Group
+
+Karl Landsteiner
+
+1900
+
+Calcium
+
+Humphrey Davy
+
+1808
+
+Cholera Vaccine
+
+Waldemar Haffkine
+
+1892
+
+Rubella Vaccine
+
+Maurice Hilleman
+
+1963
+
+Polio Vaccine
+
+Jonas Edward Stalk
+
+–
+
+Anthrax Vaccine
+
+Louis Pasteur
+
+–
+
+X-Ray
+
+William Rontgen
+
+1895
+
+Vitamin
+
+Casimir Funk
+
+1912
+
+Homeopathy and allopathy
+
+Samuel Hahnemann
+
+–
+
+Cell
+
+Robert Hooke
+
+1665
+
+Nucleus
+
+Robert Brown
+
+–
+
+ 	 	 
+Important inventions in the field of technology
+Invention
+
+Inventor
+
+Year
+
+World Wide Web
+
+Tim Berners and Robert Cailliau
+
+1989
+
+Search Engine
+
+Alan Emtage
+
+1990
+
+Cable modem
+
+Rouzbeh Yassini
+
+–
+
+Webcam
+
+Quentin straford Fraser and Paul Jardetzky
+
+1991
+
+Smartphone
+
+IBM
+
+1992
+
+Walkie Talkie
+
+Dan Noble, Henryk Magnuski et al
+
+1940
+
+JAVA 
+
+James Gosling
+
+–
+
+Surface Computing 
+
+Microsoft
+
+2007
+
+TCP/IP
+
+Bob Kahn and Vint Cerf 
+
+–
+
+Email
+
+Ray Tomlinson
+
+1971
+
+Google
+
+Larry Page and Sergey Brin
+
+1998
+
+Laptop
+
+Adam Osborne
+
+1981
+
+C Language
+
+Dennis Ritchie
+
+1972
+
+Python
+
+Guido Van Rossum
+
+1991
+
+C++
+
+Bjarne Stroustrup
+
+1983
+
+Facebook 
+
+Mark Zukerburg
+
+2004
+
+Yahoo
+
+Jerry Yang and David Filo
+
+1994
+
+Missile 
+
+Wernher Von Braun
+
+1936
+
+GPS
+
+Ivan A.
+
+Getting Roger
+
+Bradford Parkinson
+
+1995
+
+Uranus
+
+William Herschel
+
+1781
+
+Universe
+
+Edwin Hubble
+
+–
+
+Solar System
+
+Nicolaus  Copernicus
+
+16th century
+
+Planets
+
+Galileo
+
+Galilei
+
+–
+
+Important Inventions made in India
+
+Invention
+
+Inventor
+
+Year
+
+Zero and the number system
+
+Aryabhatta
+
+458AD
+
+Buttons
+
+Harappas
+
+ 
+Wool and cotton
+
+Harappas
+
+4-5th millennium BC
+
+Diamonds
+
+–
+
+–
+
+Radio/wireless communication
+
+Sir Jagdish Chandra Bose
+
+1895
+
+Cataract Surgery
+
+Sushruta
+
+5th century B.C
+
+Rockets
+
+Tipu Sultan
+
+1780
